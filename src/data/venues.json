@@ -1,0 +1,1077 @@
+[
+  {
+    "id": "v1",
+    "title": "High-Spec Room in Trendy Home",
+    "city": "London",
+    "area": "Clapham/ Stockwell",
+    "lat": 51.48413,
+    "lng": -0.15064,
+    "images": [
+      "/images/venues/v1.jpg",
+      "/images/venues/v2.png",
+      "/images/venues/v3.png"
+    ],
+    "verified": true,
+    "capacity": 300,
+    "sizeSqft": 2900,
+    "amenities": [
+      "Free parking",
+      "Air conditioning",
+      "Step-free access",
+      "Sound system",
+      "Natural light"
+    ],
+    "pricePerHour": 320,
+    "type": "Studio",
+    "category": "photo-studio",
+    "occasions": [
+      "Wedding",
+      "Concert/Performance",
+      "Engagement",
+      "Corporate Event"
+    ],
+    "featuredTabs": [
+      "Gallery",
+      "Studio"
+    ],
+    "description": "A daylight photo studio in Clapham/ Stockwell, London. Flexible layout for up to 300 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v2",
+    "title": "Soundproof Film Stage",
+    "city": "London",
+    "area": "Shoreditch",
+    "lat": 51.50644,
+    "lng": -0.15674,
+    "images": [
+      "/images/venues/v2.png",
+      "/images/venues/v3.png",
+      "/images/venues/v4.png"
+    ],
+    "verified": true,
+    "capacity": 300,
+    "sizeSqft": 2900,
+    "amenities": [
+      "Green room",
+      "Wi-Fi",
+      "Projector",
+      "Air conditioning",
+      "Kitchen",
+      "Sound system"
+    ],
+    "pricePerHour": 235,
+    "type": "Studio",
+    "category": "film-studio",
+    "occasions": [
+      "Engagement",
+      "Reception",
+      "Pop-up",
+      "Concert/Performance",
+      "Ceremony"
+    ],
+    "featuredTabs": [
+      "Restaurant",
+      "Terrace"
+    ],
+    "description": "A soundproof film stage in Shoreditch, London. Flexible layout for up to 300 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v3",
+    "title": "Raw Brick Warehouse",
+    "city": "London",
+    "area": "Soho",
+    "lat": 51.48642,
+    "lng": -0.10304,
+    "images": [
+      "/images/venues/v3.png",
+      "/images/venues/v4.png",
+      "/images/venues/v5.png"
+    ],
+    "verified": true,
+    "capacity": 120,
+    "sizeSqft": 1500,
+    "amenities": [
+      "Free parking",
+      "Green room",
+      "Natural light",
+      "Changing room"
+    ],
+    "pricePerHour": 205,
+    "type": "Loft",
+    "category": "warehouse",
+    "occasions": [
+      "Brand Launch",
+      "Birthday",
+      "Corporate Event"
+    ],
+    "featuredTabs": [
+      "Outdoor",
+      "Ballroom"
+    ],
+    "description": "A raw brick warehouse in Soho, London. Flexible layout for up to 120 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v4",
+    "title": "Downtown Loft",
+    "city": "London",
+    "area": "Camden",
+    "lat": 51.49063,
+    "lng": -0.13207,
+    "images": [
+      "/images/venues/v4.png",
+      "/images/venues/v5.png",
+      "/images/venues/v6.png"
+    ],
+    "verified": true,
+    "capacity": 50,
+    "sizeSqft": 900,
+    "amenities": [
+      "Sound system",
+      "Bar",
+      "Catering"
+    ],
+    "pricePerHour": 385,
+    "type": "Gallery",
+    "category": "gallery",
+    "occasions": [
+      "Babyshower",
+      "Concert/Performance",
+      "Birthday"
+    ],
+    "featuredTabs": [
+      "Studio",
+      "Rooftop"
+    ],
+    "description": "A downtown loft in Camden, London. Flexible layout for up to 50 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v5",
+    "title": "Chef's Table Restaurant",
+    "city": "London",
+    "area": "Covent Garden",
+    "lat": 51.50356,
+    "lng": -0.14883,
+    "images": [
+      "/images/venues/v5.png",
+      "/images/venues/v6.png",
+      "/images/venues/v7.jpg"
+    ],
+    "verified": true,
+    "capacity": 150,
+    "sizeSqft": 1700,
+    "amenities": [
+      "Wi-Fi",
+      "Natural light",
+      "Changing room",
+      "Air conditioning",
+      "Green room"
+    ],
+    "pricePerHour": 375,
+    "type": "Restaurant",
+    "category": "restaurant",
+    "occasions": [
+      "Fashion Show",
+      "Brand Launch",
+      "Babyshower",
+      "Wedding",
+      "Engagement"
+    ],
+    "featuredTabs": [
+      "Terrace",
+      "Gallery"
+    ],
+    "description": "A chef's table restaurant in Covent Garden, London. Flexible layout for up to 150 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v6",
+    "title": "Sunny Loft Apartment",
+    "city": "London",
+    "area": "Kensington",
+    "lat": 51.50081,
+    "lng": -0.11087,
+    "images": [
+      "/images/venues/v6.png",
+      "/images/venues/v7.jpg",
+      "/images/venues/v8.png"
+    ],
+    "verified": false,
+    "capacity": 80,
+    "sizeSqft": 1100,
+    "amenities": [
+      "Green room",
+      "Free parking",
+      "Sound system",
+      "Catering"
+    ],
+    "pricePerHour": 195,
+    "type": "House",
+    "category": "apartment",
+    "occasions": [
+      "Pop-up",
+      "Babyshower",
+      "Corporate Event"
+    ],
+    "featuredTabs": [
+      "Ballroom",
+      "Restaurant"
+    ],
+    "description": "A sunny loft apartment in Kensington, London. Flexible layout for up to 80 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v7",
+    "title": "Glass-Walled Boardroom Office",
+    "city": "London",
+    "area": "Hackney",
+    "lat": 51.48471,
+    "lng": -0.10121,
+    "images": [
+      "/images/venues/v7.jpg",
+      "/images/venues/v8.png",
+      "/images/venues/v1.jpg"
+    ],
+    "verified": false,
+    "capacity": 200,
+    "sizeSqft": 2100,
+    "amenities": [
+      "Free parking",
+      "Kitchen",
+      "Changing room",
+      "Bar"
+    ],
+    "pricePerHour": 275,
+    "type": "Office Space",
+    "category": "office-space",
+    "occasions": [
+      "Ceremony",
+      "Conference",
+      "Reception",
+      "Wedding",
+      "Engagement"
+    ],
+    "featuredTabs": [
+      "Rooftop",
+      "Outdoor"
+    ],
+    "description": "A glass-walled boardroom office in Hackney, London. Flexible layout for up to 200 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v8",
+    "title": "Grand Ballroom Venue",
+    "city": "London",
+    "area": "Brixton",
+    "lat": 51.52704,
+    "lng": -0.09671,
+    "images": [
+      "/images/venues/v8.png",
+      "/images/venues/v1.jpg",
+      "/images/venues/v2.png"
+    ],
+    "verified": true,
+    "capacity": 200,
+    "sizeSqft": 2100,
+    "amenities": [
+      "Free parking",
+      "Sound system",
+      "Step-free access",
+      "Wi-Fi"
+    ],
+    "pricePerHour": 160,
+    "type": "Ballroom",
+    "category": "venue",
+    "occasions": [
+      "Engagement",
+      "Corporate Event",
+      "Reception"
+    ],
+    "featuredTabs": [
+      "Gallery",
+      "Studio"
+    ],
+    "description": "A grand ballroom venue in Brixton, London. Flexible layout for up to 200 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v9",
+    "title": "Secret Garden Party Space",
+    "city": "London",
+    "area": "Southbank",
+    "lat": 51.51464,
+    "lng": -0.16483,
+    "images": [
+      "/images/venues/v1.jpg",
+      "/images/venues/v2.png",
+      "/images/venues/v3.png"
+    ],
+    "verified": true,
+    "capacity": 20,
+    "sizeSqft": 700,
+    "amenities": [
+      "Projector",
+      "Sound system",
+      "Free parking"
+    ],
+    "pricePerHour": 310,
+    "type": "Bar",
+    "category": "private-party",
+    "occasions": [
+      "Fashion Show",
+      "Engagement",
+      "Pop-up",
+      "Brand Launch"
+    ],
+    "featuredTabs": [
+      "Restaurant",
+      "Terrace"
+    ],
+    "description": "A secret garden party space in Southbank, London. Flexible layout for up to 20 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v10",
+    "title": "Executive Meeting Suite",
+    "city": "London",
+    "area": "Mayfair",
+    "lat": 51.49876,
+    "lng": -0.16566,
+    "images": [
+      "/images/venues/v2.png",
+      "/images/venues/v3.png",
+      "/images/venues/v4.png"
+    ],
+    "verified": false,
+    "capacity": 80,
+    "sizeSqft": 1100,
+    "amenities": [
+      "Free parking",
+      "Natural light",
+      "Projector"
+    ],
+    "pricePerHour": 40,
+    "type": "Meeting",
+    "category": "meeting",
+    "occasions": [
+      "Babyshower",
+      "Birthday",
+      "Brand Launch",
+      "Pop-up"
+    ],
+    "featuredTabs": [
+      "Outdoor",
+      "Ballroom"
+    ],
+    "description": "A executive meeting suite in Mayfair, London. Flexible layout for up to 80 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v11",
+    "title": "Downtown Loft",
+    "city": "New York",
+    "area": "SoHo",
+    "lat": 40.70782,
+    "lng": -73.95069,
+    "images": [
+      "/images/venues/v3.png",
+      "/images/venues/v4.png",
+      "/images/venues/v5.png"
+    ],
+    "verified": true,
+    "capacity": 150,
+    "sizeSqft": 1700,
+    "amenities": [
+      "Air conditioning",
+      "Catering",
+      "Sound system",
+      "Green room"
+    ],
+    "pricePerHour": 360,
+    "type": "Gallery",
+    "category": "gallery",
+    "occasions": [
+      "Babyshower",
+      "Fashion Show",
+      "Corporate Event",
+      "Pop-up"
+    ],
+    "featuredTabs": [
+      "Studio",
+      "Rooftop"
+    ],
+    "description": "A downtown loft in SoHo, New York. Flexible layout for up to 150 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v12",
+    "title": "Rooftop Restaurant & Bar",
+    "city": "New York",
+    "area": "Brooklyn",
+    "lat": 40.73871,
+    "lng": -73.95694,
+    "images": [
+      "/images/venues/v4.png",
+      "/images/venues/v5.png",
+      "/images/venues/v6.png"
+    ],
+    "verified": true,
+    "capacity": 1500,
+    "sizeSqft": 12500,
+    "amenities": [
+      "Green room",
+      "Step-free access",
+      "Catering"
+    ],
+    "pricePerHour": 175,
+    "type": "Bar",
+    "category": "restaurant",
+    "occasions": [
+      "Corporate Event",
+      "Babyshower",
+      "Birthday",
+      "Conference",
+      "Brand Launch"
+    ],
+    "featuredTabs": [
+      "Terrace",
+      "Gallery"
+    ],
+    "description": "A rooftop restaurant & bar in Brooklyn, New York. Flexible layout for up to 1500 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v13",
+    "title": "Designer Penthouse Apartment",
+    "city": "New York",
+    "area": "Chelsea",
+    "lat": 40.72861,
+    "lng": -73.94246,
+    "images": [
+      "/images/venues/v5.png",
+      "/images/venues/v6.png",
+      "/images/venues/v7.jpg"
+    ],
+    "verified": true,
+    "capacity": 150,
+    "sizeSqft": 1700,
+    "amenities": [
+      "Bar",
+      "Wi-Fi",
+      "Natural light"
+    ],
+    "pricePerHour": 225,
+    "type": "Apartment",
+    "category": "apartment",
+    "occasions": [
+      "Wedding",
+      "Pop-up",
+      "Concert/Performance"
+    ],
+    "featuredTabs": [
+      "Ballroom",
+      "Restaurant"
+    ],
+    "description": "A designer penthouse apartment in Chelsea, New York. Flexible layout for up to 150 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v14",
+    "title": "Creative Office Space",
+    "city": "New York",
+    "area": "Tribeca",
+    "lat": 40.71163,
+    "lng": -73.97242,
+    "images": [
+      "/images/venues/v6.png",
+      "/images/venues/v7.jpg",
+      "/images/venues/v8.png"
+    ],
+    "verified": true,
+    "capacity": 150,
+    "sizeSqft": 1700,
+    "amenities": [
+      "Natural light",
+      "Air conditioning",
+      "Step-free access",
+      "Sound system",
+      "Changing room"
+    ],
+    "pricePerHour": 95,
+    "type": "Office Space",
+    "category": "office-space",
+    "occasions": [
+      "Babyshower",
+      "Conference",
+      "Concert/Performance",
+      "Wedding"
+    ],
+    "featuredTabs": [
+      "Rooftop",
+      "Outdoor"
+    ],
+    "description": "A creative office space in Tribeca, New York. Flexible layout for up to 150 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v15",
+    "title": "Grand Ballroom Venue",
+    "city": "New York",
+    "area": "Williamsburg",
+    "lat": 40.71564,
+    "lng": -73.99542,
+    "images": [
+      "/images/venues/v7.jpg",
+      "/images/venues/v8.png",
+      "/images/venues/v1.jpg"
+    ],
+    "verified": true,
+    "capacity": 200,
+    "sizeSqft": 2100,
+    "amenities": [
+      "Free parking",
+      "Wi-Fi",
+      "Changing room",
+      "Step-free access"
+    ],
+    "pricePerHour": 235,
+    "type": "Ballroom",
+    "category": "venue",
+    "occasions": [
+      "Reception",
+      "Babyshower",
+      "Engagement",
+      "Concert/Performance",
+      "Wedding"
+    ],
+    "featuredTabs": [
+      "Gallery",
+      "Studio"
+    ],
+    "description": "A grand ballroom venue in Williamsburg, New York. Flexible layout for up to 200 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v16",
+    "title": "Secret Garden Party Space",
+    "city": "New York",
+    "area": "Midtown",
+    "lat": 40.75166,
+    "lng": -74.02899,
+    "images": [
+      "/images/venues/v8.png",
+      "/images/venues/v1.jpg",
+      "/images/venues/v2.png"
+    ],
+    "verified": true,
+    "capacity": 600,
+    "sizeSqft": 5300,
+    "amenities": [
+      "Sound system",
+      "Kitchen",
+      "Changing room",
+      "Step-free access"
+    ],
+    "pricePerHour": 115,
+    "type": "Villa",
+    "category": "private-party",
+    "occasions": [
+      "Conference",
+      "Pop-up",
+      "Engagement",
+      "Corporate Event"
+    ],
+    "featuredTabs": [
+      "Restaurant",
+      "Terrace"
+    ],
+    "description": "A secret garden party space in Midtown, New York. Flexible layout for up to 600 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v17",
+    "title": "Workshop Meeting Space",
+    "city": "New York",
+    "area": "Harlem",
+    "lat": 40.70577,
+    "lng": -74.01265,
+    "images": [
+      "/images/venues/v1.jpg",
+      "/images/venues/v2.png",
+      "/images/venues/v3.png"
+    ],
+    "verified": true,
+    "capacity": 150,
+    "sizeSqft": 1700,
+    "amenities": [
+      "Catering",
+      "Green room",
+      "Kitchen",
+      "Sound system",
+      "Natural light"
+    ],
+    "pricePerHour": 90,
+    "type": "Meeting",
+    "category": "meeting",
+    "occasions": [
+      "Brand Launch",
+      "Corporate Event",
+      "Fashion Show",
+      "Ceremony",
+      "Babyshower"
+    ],
+    "featuredTabs": [
+      "Outdoor",
+      "Ballroom"
+    ],
+    "description": "A workshop meeting space in Harlem, New York. Flexible layout for up to 150 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v18",
+    "title": "High-Spec Room in Trendy Home",
+    "city": "New York",
+    "area": "Dumbo",
+    "lat": 40.7583,
+    "lng": -73.97677,
+    "images": [
+      "/images/venues/v2.png",
+      "/images/venues/v3.png",
+      "/images/venues/v4.png"
+    ],
+    "verified": true,
+    "capacity": 450,
+    "sizeSqft": 4100,
+    "amenities": [
+      "Step-free access",
+      "Catering",
+      "Wi-Fi",
+      "Sound system"
+    ],
+    "pricePerHour": 335,
+    "type": "Studio",
+    "category": "photo-studio",
+    "occasions": [
+      "Concert/Performance",
+      "Babyshower",
+      "Fashion Show",
+      "Engagement",
+      "Wedding"
+    ],
+    "featuredTabs": [
+      "Studio",
+      "Rooftop"
+    ],
+    "description": "A high-spec room in trendy home in Dumbo, New York. Flexible layout for up to 450 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v19",
+    "title": "Soundproof Film Stage",
+    "city": "New York",
+    "area": "East Village",
+    "lat": 40.75595,
+    "lng": -73.96375,
+    "images": [
+      "/images/venues/v3.png",
+      "/images/venues/v4.png",
+      "/images/venues/v5.png"
+    ],
+    "verified": false,
+    "capacity": 150,
+    "sizeSqft": 1700,
+    "amenities": [
+      "Air conditioning",
+      "Sound system",
+      "Free parking",
+      "Changing room"
+    ],
+    "pricePerHour": 155,
+    "type": "Studio",
+    "category": "film-studio",
+    "occasions": [
+      "Ceremony",
+      "Wedding",
+      "Babyshower"
+    ],
+    "featuredTabs": [
+      "Terrace",
+      "Gallery"
+    ],
+    "description": "A soundproof film stage in East Village, New York. Flexible layout for up to 150 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v20",
+    "title": "Raw Brick Warehouse",
+    "city": "New York",
+    "area": "Upper West Side",
+    "lat": 40.74947,
+    "lng": -73.97632,
+    "images": [
+      "/images/venues/v4.png",
+      "/images/venues/v5.png",
+      "/images/venues/v6.png"
+    ],
+    "verified": true,
+    "capacity": 1500,
+    "sizeSqft": 12500,
+    "amenities": [
+      "Projector",
+      "Wi-Fi",
+      "Step-free access"
+    ],
+    "pricePerHour": 145,
+    "type": "Loft",
+    "category": "warehouse",
+    "occasions": [
+      "Concert/Performance",
+      "Brand Launch",
+      "Ceremony"
+    ],
+    "featuredTabs": [
+      "Ballroom",
+      "Restaurant"
+    ],
+    "description": "A raw brick warehouse in Upper West Side, New York. Flexible layout for up to 1500 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v21",
+    "title": "Glass-Walled Boardroom Office",
+    "city": "Dubai",
+    "area": "Downtown Dubai",
+    "lat": 25.20428,
+    "lng": 55.23418,
+    "images": [
+      "/images/venues/v5.png",
+      "/images/venues/v6.png",
+      "/images/venues/v7.jpg"
+    ],
+    "verified": true,
+    "capacity": 450,
+    "sizeSqft": 4100,
+    "amenities": [
+      "Projector",
+      "Free parking",
+      "Bar",
+      "Wi-Fi"
+    ],
+    "pricePerHour": 65,
+    "type": "Office Space",
+    "category": "office-space",
+    "occasions": [
+      "Babyshower",
+      "Fashion Show",
+      "Pop-up"
+    ],
+    "featuredTabs": [
+      "Rooftop",
+      "Outdoor"
+    ],
+    "description": "A glass-walled boardroom office in Downtown Dubai, Dubai. Flexible layout for up to 450 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v22",
+    "title": "Heritage Hall Venue",
+    "city": "Dubai",
+    "area": "Dubai Marina",
+    "lat": 25.17498,
+    "lng": 55.30154,
+    "images": [
+      "/images/venues/v6.png",
+      "/images/venues/v7.jpg",
+      "/images/venues/v8.png"
+    ],
+    "verified": false,
+    "capacity": 50,
+    "sizeSqft": 900,
+    "amenities": [
+      "Changing room",
+      "Step-free access",
+      "Green room",
+      "Free parking",
+      "Natural light",
+      "Catering"
+    ],
+    "pricePerHour": 55,
+    "type": "Ballroom",
+    "category": "venue",
+    "occasions": [
+      "Birthday",
+      "Engagement",
+      "Pop-up",
+      "Brand Launch"
+    ],
+    "featuredTabs": [
+      "Gallery",
+      "Studio"
+    ],
+    "description": "A heritage hall venue in Dubai Marina, Dubai. Flexible layout for up to 50 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v23",
+    "title": "Secret Garden Party Space",
+    "city": "Dubai",
+    "area": "Jumeirah",
+    "lat": 25.21723,
+    "lng": 55.22701,
+    "images": [
+      "/images/venues/v7.jpg",
+      "/images/venues/v8.png",
+      "/images/venues/v1.jpg"
+    ],
+    "verified": true,
+    "capacity": 450,
+    "sizeSqft": 4100,
+    "amenities": [
+      "Natural light",
+      "Free parking",
+      "Sound system"
+    ],
+    "pricePerHour": 215,
+    "type": "Private Party",
+    "category": "private-party",
+    "occasions": [
+      "Concert/Performance",
+      "Pop-up",
+      "Wedding",
+      "Birthday"
+    ],
+    "featuredTabs": [
+      "Restaurant",
+      "Terrace"
+    ],
+    "description": "A secret garden party space in Jumeirah, Dubai. Flexible layout for up to 450 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v24",
+    "title": "Bright Meeting Room",
+    "city": "Dubai",
+    "area": "Al Quoz",
+    "lat": 25.18363,
+    "lng": 55.25542,
+    "images": [
+      "/images/venues/v8.png",
+      "/images/venues/v1.jpg",
+      "/images/venues/v2.png"
+    ],
+    "verified": true,
+    "capacity": 50,
+    "sizeSqft": 900,
+    "amenities": [
+      "Wi-Fi",
+      "Projector",
+      "Sound system",
+      "Air conditioning"
+    ],
+    "pricePerHour": 200,
+    "type": "Meeting",
+    "category": "meeting",
+    "occasions": [
+      "Conference",
+      "Brand Launch",
+      "Engagement",
+      "Fashion Show"
+    ],
+    "featuredTabs": [
+      "Outdoor",
+      "Ballroom"
+    ],
+    "description": "A bright meeting room in Al Quoz, Dubai. Flexible layout for up to 50 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v25",
+    "title": "Daylight Photo Studio",
+    "city": "Dubai",
+    "area": "Business Bay",
+    "lat": 25.22168,
+    "lng": 55.24879,
+    "images": [
+      "/images/venues/v1.jpg",
+      "/images/venues/v2.png",
+      "/images/venues/v3.png"
+    ],
+    "verified": true,
+    "capacity": 80,
+    "sizeSqft": 1100,
+    "amenities": [
+      "Projector",
+      "Air conditioning",
+      "Wi-Fi",
+      "Step-free access"
+    ],
+    "pricePerHour": 185,
+    "type": "Studio",
+    "category": "photo-studio",
+    "occasions": [
+      "Corporate Event",
+      "Brand Launch",
+      "Ceremony"
+    ],
+    "featuredTabs": [
+      "Studio",
+      "Rooftop"
+    ],
+    "description": "A daylight photo studio in Business Bay, Dubai. Flexible layout for up to 80 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v26",
+    "title": "Green Screen Studio",
+    "city": "Dubai",
+    "area": "DIFC",
+    "lat": 25.20201,
+    "lng": 55.29394,
+    "images": [
+      "/images/venues/v2.png",
+      "/images/venues/v3.png",
+      "/images/venues/v4.png"
+    ],
+    "verified": true,
+    "capacity": 50,
+    "sizeSqft": 900,
+    "amenities": [
+      "Natural light",
+      "Free parking",
+      "Step-free access",
+      "Changing room"
+    ],
+    "pricePerHour": 150,
+    "type": "Studio",
+    "category": "film-studio",
+    "occasions": [
+      "Babyshower",
+      "Birthday",
+      "Brand Launch"
+    ],
+    "featuredTabs": [
+      "Terrace",
+      "Gallery"
+    ],
+    "description": "A green screen studio in DIFC, Dubai. Flexible layout for up to 50 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v27",
+    "title": "Industrial Warehouse Loft",
+    "city": "Dubai",
+    "area": "Palm Jumeirah",
+    "lat": 25.20053,
+    "lng": 55.28888,
+    "images": [
+      "/images/venues/v3.png",
+      "/images/venues/v4.png",
+      "/images/venues/v5.png"
+    ],
+    "verified": false,
+    "capacity": 600,
+    "sizeSqft": 5300,
+    "amenities": [
+      "Green room",
+      "Bar",
+      "Air conditioning"
+    ],
+    "pricePerHour": 115,
+    "type": "Loft",
+    "category": "warehouse",
+    "occasions": [
+      "Birthday",
+      "Conference",
+      "Brand Launch"
+    ],
+    "featuredTabs": [
+      "Ballroom",
+      "Restaurant"
+    ],
+    "description": "A industrial warehouse loft in Palm Jumeirah, Dubai. Flexible layout for up to 600 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v28",
+    "title": "Contemporary Art Gallery",
+    "city": "Dubai",
+    "area": "JLT",
+    "lat": 25.19781,
+    "lng": 55.29697,
+    "images": [
+      "/images/venues/v4.png",
+      "/images/venues/v5.png",
+      "/images/venues/v6.png"
+    ],
+    "verified": true,
+    "capacity": 150,
+    "sizeSqft": 1700,
+    "amenities": [
+      "Step-free access",
+      "Catering",
+      "Natural light",
+      "Bar",
+      "Free parking",
+      "Projector"
+    ],
+    "pricePerHour": 170,
+    "type": "Gallery",
+    "category": "gallery",
+    "occasions": [
+      "Concert/Performance",
+      "Ceremony",
+      "Wedding"
+    ],
+    "featuredTabs": [
+      "Rooftop",
+      "Outdoor"
+    ],
+    "description": "A contemporary art gallery in JLT, Dubai. Flexible layout for up to 150 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v29",
+    "title": "Chef's Table Restaurant",
+    "city": "Dubai",
+    "area": "Al Barsha",
+    "lat": 25.18968,
+    "lng": 55.24744,
+    "images": [
+      "/images/venues/v5.png",
+      "/images/venues/v6.png",
+      "/images/venues/v7.jpg"
+    ],
+    "verified": false,
+    "capacity": 300,
+    "sizeSqft": 2900,
+    "amenities": [
+      "Bar",
+      "Step-free access",
+      "Natural light"
+    ],
+    "pricePerHour": 340,
+    "type": "Restaurant",
+    "category": "restaurant",
+    "occasions": [
+      "Reception",
+      "Wedding",
+      "Corporate Event"
+    ],
+    "featuredTabs": [
+      "Gallery",
+      "Studio"
+    ],
+    "description": "A chef's table restaurant in Al Barsha, Dubai. Flexible layout for up to 300 guests with great natural light and a friendly host team."
+  },
+  {
+    "id": "v30",
+    "title": "Skyline View Apartment",
+    "city": "Dubai",
+    "area": "City Walk",
+    "lat": 25.17526,
+    "lng": 55.22744,
+    "images": [
+      "/images/venues/v6.png",
+      "/images/venues/v7.jpg",
+      "/images/venues/v8.png"
+    ],
+    "verified": true,
+    "capacity": 450,
+    "sizeSqft": 4100,
+    "amenities": [
+      "Green room",
+      "Free parking",
+      "Wi-Fi",
+      "Sound system"
+    ],
+    "pricePerHour": 240,
+    "type": "Apartment",
+    "category": "apartment",
+    "occasions": [
+      "Reception",
+      "Engagement",
+      "Concert/Performance",
+      "Wedding"
+    ],
+    "featuredTabs": [
+      "Restaurant",
+      "Terrace"
+    ],
+    "description": "A skyline view apartment in City Walk, Dubai. Flexible layout for up to 450 guests with great natural light and a friendly host team."
+  }
+]

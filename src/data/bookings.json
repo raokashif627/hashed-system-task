@@ -1,0 +1,8 @@
+[
+  { "venueId": "v1", "dayOffset": 5, "guests": 40, "status": "Confirmed" },
+  { "venueId": "v14", "dayOffset": 12, "guests": 120, "status": "Pending" },
+  { "venueId": "v23", "dayOffset": 30, "guests": 80, "status": "Confirmed" },
+  { "venueId": "v8", "dayOffset": -20, "guests": 25, "status": "Completed" },
+  { "venueId": "v17", "dayOffset": -60, "guests": 200, "status": "Completed" },
+  { "venueId": "v27", "dayOffset": -10, "guests": 60, "status": "Cancelled" }
+]
